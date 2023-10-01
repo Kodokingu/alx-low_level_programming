@@ -13,5 +13,4 @@
 
 	else
 		_putchar('\n');
-}
- 
+} 
