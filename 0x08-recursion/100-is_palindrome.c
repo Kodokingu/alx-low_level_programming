@@ -8,7 +8,7 @@ int _strlen_recursion(char *s);
  *
  * Return: 1 means it is, 0 is not
  */
-
+int is_palindrome(car *s)
 {
 	if (*s == 0)
 		return (1);
