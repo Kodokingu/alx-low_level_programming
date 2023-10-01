@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * This puts recursion
- * sets per
- * else state
+ *puts recursion function
+ * @s
+ * Return
  */
 void _puts_recursion(char *s)
 {
@@ -13,4 +13,4 @@ void _puts_recursion(char *s)
 	}
 	else
 		_putchar('\n');
-} 
+}
